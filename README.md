@@ -3,7 +3,7 @@
 Welcome to the **Clean Cars** repository! This project hosts the codebase for a responsive, user-friendly landing page designed for a car cleaning service. The website provides an engaging experience with sections that highlight the service offerings, quality standards, and customer testimonials.
 
 
-![Homepage Screenshot](assets/images/DescriptionImage/repo-cover.png)
+![Homepage Screenshot](/assets/DescriptionImage/repo-cover.png)
 
 
 ## Features
