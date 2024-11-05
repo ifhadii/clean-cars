@@ -45,4 +45,4 @@ Welcome to the **Clean Cars** repository! This project hosts the codebase for a 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/ifhadii/CleanCars.git
+   git clone https://github.com/ifhadii/clean-cars.git
