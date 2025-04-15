@@ -1,6 +1,8 @@
 # Clean Cars
 
-Welcome to the **Clean Cars** repository! This project hosts the codebase for a responsive, user-friendly landing page designed for a car cleaning service. The website provides an engaging experience with sections that highlight the service offerings, quality standards, and customer testimonials.
+This freelance project for one of my Clinets  involves the development of a responsive, user-friendly landing page for a car cleaning service. The website is designed to provide an engaging user experience, effectively highlighting the service offerings, quality standards, and customer testimonials to attract and inform potential clients.
+
+
 
 
 ![Homepage Screenshot](/assets/DescriptionImage/repo-cover.png)
